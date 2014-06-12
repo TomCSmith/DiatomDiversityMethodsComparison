@@ -1,0 +1,42 @@
+\documentclass[a4paper]{article}
+
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage[colorinlistoftodos]{todonotes}
+
+\title{Comparing the diversity of methods for comparing diversity}
+
+\author{mqwilber and TomCSmith}
+
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+Outline of ideas for Mark and Tom's comparison of multivariate, bivariate, and univariate descriptions and quantification of community diversity, using Holmes 1986 Sierra Nevada alpine lake diatom data.
+\end{abstract}
+
+\section{Introduction}
+
+\begin{enumerate}
+\item We are both interested in describing how communities differ in composition and relative abundance...
+\item ...in general, and with respect to disturbances like species invasions or extinctions.
+\item There are several ways to do this:
+ \begin{enumerate}
+ \item multivariate statistical descriptions and measurements of similarity/distance of whole communities, which taxa are associated with communities clustered together vs. apart; and what covariates and factors differ between clusters.
+ \item bivariate methods examining the SAD of communities, and how the parameters of those ddistributions vary for communities under different conditions
+ \item univariate methods of richness, evenness, diversity, and alpha/beta/gamma diversity, and how those correlate to environmental covariates and disturbances
+ \end{enumerate}
+\end{enumerate}
+
+\section{Objective}
+\begin{enumerate}
+\item We would like to compare the information these three 'methods' provide for the same data set.
+\end{enumerate}
+
+
+
+\end{document}
